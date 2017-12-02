@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\M1\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_9bfc8eea6d3a884966c5d20311ecf2c0157f5a4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AndroidStudioProjects\M1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\M1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9ea15de7e52c969c06ad9a418fe81b0c1cba70d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AndroidStudioProjects\M1\app\src\main\libs\apache-httpcomponents-httpcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="33fc26c02f8043ab0ede19eadc8c9885386b255c">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\M1\app\build\intermediates\transforms\dex\debug\folders\1000\2\apache-httpcomponents-httpcore_cde69da494ecd78aae0fb696de1994a5eedf6035\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AndroidStudioProjects\M1\app\src\main\libs\apache-httpcomponents-httpclient.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="13d1b1d8f318f5b0f95bc2901f378ef68982584f">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\M1\app\build\intermediates\transforms\dex\debug\folders\1000\2\apache-httpcomponents-httpclient_5225b735b27c93a857fd9440929ef99323814ddc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\9a0aa3d7c4d6a5350440f09fe2bf978492bd1120\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\M1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_27dcb1fba0b8c450c34aa6f537e3790f32c941f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AndroidStudioProjects\M1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09e880433fc25c70aedf07106933353e3a3fcd07">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\M1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8a65bf11ee6b724aecb5ffd1d3036e65660b2ee9\classes.dex" />
+    </item>
+
+</items>
